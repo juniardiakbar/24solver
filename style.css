@@ -1,0 +1,14 @@
+.inputNum{
+    width : 100px;
+    height: 100px;
+    font-size: 50px;
+}
+
+#getHasil, #hapus{
+    height : 40px;
+    width  : 70px;
+}
+
+.form{
+    padding-left: 10%;
+}
